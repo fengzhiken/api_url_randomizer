@@ -11,5 +11,5 @@ This can be useful in scenarios where you want to distribute API requests across
 - `https://github.com/fengzhiken/api_url_randomizer.git`
 - `cd api_url_randomizer`
 - `pipenv install`
-- `pipenv shell
+- `pipenv shell`
 - `python main.py`
